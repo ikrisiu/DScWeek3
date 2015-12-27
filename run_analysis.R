@@ -1,6 +1,6 @@
-dim(read.table("UCI HAR Dataset/features.txt"))
-dim(read.table("UCI HAR Dataset/test/X_test.txt"))
-dim(read.table("UCI HAR Dataset/train/X_train.txt"))
+##  dim(read.table("UCI HAR Dataset/features.txt"))
+##  dim(read.table("UCI HAR Dataset/test/X_test.txt"))
+##  dim(read.table("UCI HAR Dataset/train/X_train.txt"))
 library(dplyr)
 library(plyr)
 ## read column names and put it into vector
